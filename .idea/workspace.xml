@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b8acf9a-017d-4e68-852d-fc61ce85b093" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yyl/chatroom/ChatRoomClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yyl/chatroom/ChatRoomServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChatRoomServer" />
         <item itemvalue="Application.ChatRoomClient" />
+        <item itemvalue="Application.ChatRoomServer" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574488091661</updated>
-      <workItem from="1574488093737" duration="8649000" />
+      <workItem from="1574488093737" duration="9980000" />
     </task>
     <servers />
   </component>
