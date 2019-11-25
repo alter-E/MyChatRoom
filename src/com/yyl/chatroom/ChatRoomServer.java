@@ -60,7 +60,7 @@ public class ChatRoomServer {
             }
 
         } catch (Exception ex) {
-            ex.printStackTrace();
+            System.out.println("the connection has broken!");
         }
     }
 

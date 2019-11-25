@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b8acf9a-017d-4e68-852d-fc61ce85b093" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yyl/chatroom/ChatRoomServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yyl/chatroom/ChatRoomServer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574488091661</updated>
       <workItem from="1574488093737" duration="11048000" />
+      <workItem from="1574667638856" duration="607000" />
     </task>
     <servers />
   </component>
@@ -113,7 +113,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
